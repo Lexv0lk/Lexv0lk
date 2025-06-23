@@ -30,6 +30,7 @@ Pogo Obby - https://yandex.ru/games/app/407235
 ### My games:
 - <p> Yakut - https://doubled-official.itch.io/yakut
 - <p> Garden Warfare (made in 2 days) - https://lexvolk.itch.io/garden-warfare
+- <p> Flappy Bird - https://playgama.com/game/flappy-bird
 - <p> Fantasy RPG - https://yandex.ru/games/app/289646
 
 
