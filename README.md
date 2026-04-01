@@ -2,7 +2,7 @@
 
 ### Backend Developer (Go) · ex-Game Developer · Samara, Russia
 
-Transitioning from 4 years of commercial Unity development to Go backend.  
+Transitioning from 2 years of commercial Unity development to Go backend.  
 Currently studying at **T-Bank Academy (Go track)** and building things.
 
 ---
